@@ -26,10 +26,11 @@ Once that menu opens, set the magnifying method to GL_LINEAR and the minifying m
 
 # Images
 
-![lake1](https://github.com/BugelNiels/OpenGL/blob/master/framework/Screenshots/1.png "Figure 1")
-![lake2](https://github.com/BugelNiels/OpenGL/blob/master/framework/Screenshots/2.png "Figure 2")
-![lake3](https://github.com/BugelNiels/OpenGL/blob/master/framework/Screenshots/3.png "Figure 3")
-![river1](https://github.com/BugelNiels/OpenGL/blob/master/framework/Screenshots/4.png "Figure 4")
+![lake1](https://github.com/BugelNiels/OpenGL/blob/master/framework/Screenshots/1_reflective.png "Figure 1")
+![lake2](https://github.com/BugelNiels/OpenGL/blob/master/framework/Screenshots/2_reflective.png "Figure 2")
+![lake3](https://github.com/BugelNiels/OpenGL/blob/master/framework/Screenshots/3_reflective.png "Figure 3")
+![river1](https://github.com/BugelNiels/OpenGL/blob/master/framework/Screenshots/4_reflective.png "Figure 4")
+![river2](https://github.com/BugelNiels/OpenGL/blob/master/framework/Screenshots/5_reflective.png "Figure 4")
 
 The images can also be found in the screenshots folder
 
