@@ -12,6 +12,8 @@ The shader is composed of the following:
 # Disclaimer
 
 The code quality is extremely mediocre, since I started a bit late and had to take some shortcuts.
+This also meant I did not really have time to refactor, sooo yeahh... 
+If your eyes start bleeding when you look at the code, that is not my responsibility :)
 
 # Replicating the images
 In order to replicate the images, run the code in QtCreator, select the object and set the shader to metallic.
