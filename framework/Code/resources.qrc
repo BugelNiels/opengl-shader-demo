@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>textures/helmet_diff.png</file>
+        <file>textures/helmet_norm.png</file>
+        <file>textures/helmet_spec.png</file>
+        <file>textures/river_negx.jpg</file>
+        <file>textures/river_negy.jpg</file>
+        <file>textures/river_negz.jpg</file>
+        <file>textures/river_posx.jpg</file>
+        <file>textures/river_posy.jpg</file>
+        <file>textures/river_posz.jpg</file>
+        <file>textures/lake_negx.jpg</file>
+        <file>textures/lake_negy.jpg</file>
+        <file>textures/lake_negz.jpg</file>
+        <file>textures/lake_posx.jpg</file>
+        <file>textures/lake_posy.jpg</file>
+        <file>textures/lake_posz.jpg</file>
+        <file>models/cube.obj</file>
+        <file>models/helmet.obj</file>
+        <file>shaders/fragshader_gouraud.glsl</file>
+        <file>shaders/fragshader_normal.glsl</file>
+        <file>shaders/fragshader_phong.glsl</file>
+        <file>shaders/vertshader_gouraud.glsl</file>
+        <file>shaders/vertshader_normal.glsl</file>
+        <file>shaders/vertshader_phong.glsl</file>
+        <file>shaders/fragshader_water.glsl</file>
+        <file>shaders/vertshader_water.glsl</file>
+        <file>shaders/fragshader_cubemap.glsl</file>
+        <file>shaders/vertshader_cubemap.glsl</file>
+        <file>shaders/fragshader_realism.glsl</file>
+        <file>shaders/vertshader_realism.glsl</file>
+    </qresource>
+</RCC>
